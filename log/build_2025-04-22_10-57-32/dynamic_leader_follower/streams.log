@@ -1,0 +1,26 @@
+[0.671s] Invoking command in '/home/soroushkabiri92/hw2_ws/src/dynamic_leader_follower': PYTHONPATH=/home/soroushkabiri92/hw2_ws/build/dynamic_leader_follower/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/soroushkabiri92/hw2_ws/install/dynamic_leader_follower/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/dynamic_leader_follower build --build-base /home/soroushkabiri92/hw2_ws/build/dynamic_leader_follower/build install --record /home/soroushkabiri92/hw2_ws/build/dynamic_leader_follower/install.log --single-version-externally-managed install_data
+[0.837s] running egg_info
+[0.837s] writing ../../build/dynamic_leader_follower/dynamic_leader_follower.egg-info/PKG-INFO
+[0.838s] writing dependency_links to ../../build/dynamic_leader_follower/dynamic_leader_follower.egg-info/dependency_links.txt
+[0.838s] writing entry points to ../../build/dynamic_leader_follower/dynamic_leader_follower.egg-info/entry_points.txt
+[0.838s] writing requirements to ../../build/dynamic_leader_follower/dynamic_leader_follower.egg-info/requires.txt
+[0.838s] writing top-level names to ../../build/dynamic_leader_follower/dynamic_leader_follower.egg-info/top_level.txt
+[0.840s] reading manifest file '../../build/dynamic_leader_follower/dynamic_leader_follower.egg-info/SOURCES.txt'
+[0.841s] writing manifest file '../../build/dynamic_leader_follower/dynamic_leader_follower.egg-info/SOURCES.txt'
+[0.842s] running build
+[0.842s] running build_py
+[0.842s] copying dynamic_leader_follower/turtle_tf2_broadcaster.py -> /home/soroushkabiri92/hw2_ws/build/dynamic_leader_follower/build/lib/dynamic_leader_follower
+[0.842s] running install
+[0.842s] running install_lib
+[0.843s] copying /home/soroushkabiri92/hw2_ws/build/dynamic_leader_follower/build/lib/dynamic_leader_follower/turtle_tf2_broadcaster.py -> /home/soroushkabiri92/hw2_ws/install/dynamic_leader_follower/lib/python3.10/site-packages/dynamic_leader_follower
+[0.844s] byte-compiling /home/soroushkabiri92/hw2_ws/install/dynamic_leader_follower/lib/python3.10/site-packages/dynamic_leader_follower/turtle_tf2_broadcaster.py to turtle_tf2_broadcaster.cpython-310.pyc
+[0.845s] running install_data
+[0.845s] copying launch/turtle_tf2_demo.launch.py -> /home/soroushkabiri92/hw2_ws/install/dynamic_leader_follower/share/dynamic_leader_follower/launch
+[0.845s] running install_egg_info
+[0.847s] removing '/home/soroushkabiri92/hw2_ws/install/dynamic_leader_follower/lib/python3.10/site-packages/dynamic_leader_follower-0.0.0-py3.10.egg-info' (and everything under it)
+[0.847s] Copying ../../build/dynamic_leader_follower/dynamic_leader_follower.egg-info to /home/soroushkabiri92/hw2_ws/install/dynamic_leader_follower/lib/python3.10/site-packages/dynamic_leader_follower-0.0.0-py3.10.egg-info
+[0.848s] running install_scripts
+[0.863s] Installing turtle_tf2_broadcaster script to /home/soroushkabiri92/hw2_ws/install/dynamic_leader_follower/lib/dynamic_leader_follower
+[0.864s] Installing turtle_tf2_listener script to /home/soroushkabiri92/hw2_ws/install/dynamic_leader_follower/lib/dynamic_leader_follower
+[0.864s] writing list of installed files to '/home/soroushkabiri92/hw2_ws/build/dynamic_leader_follower/install.log'
+[0.883s] Invoked command in '/home/soroushkabiri92/hw2_ws/src/dynamic_leader_follower' returned '0': PYTHONPATH=/home/soroushkabiri92/hw2_ws/build/dynamic_leader_follower/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/soroushkabiri92/hw2_ws/install/dynamic_leader_follower/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/dynamic_leader_follower build --build-base /home/soroushkabiri92/hw2_ws/build/dynamic_leader_follower/build install --record /home/soroushkabiri92/hw2_ws/build/dynamic_leader_follower/install.log --single-version-externally-managed install_data

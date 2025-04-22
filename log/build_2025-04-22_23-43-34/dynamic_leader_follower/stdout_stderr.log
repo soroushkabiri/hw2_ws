@@ -1,0 +1,24 @@
+running egg_info
+writing ../../build/dynamic_leader_follower/dynamic_leader_follower.egg-info/PKG-INFO
+writing dependency_links to ../../build/dynamic_leader_follower/dynamic_leader_follower.egg-info/dependency_links.txt
+writing entry points to ../../build/dynamic_leader_follower/dynamic_leader_follower.egg-info/entry_points.txt
+writing requirements to ../../build/dynamic_leader_follower/dynamic_leader_follower.egg-info/requires.txt
+writing top-level names to ../../build/dynamic_leader_follower/dynamic_leader_follower.egg-info/top_level.txt
+reading manifest file '../../build/dynamic_leader_follower/dynamic_leader_follower.egg-info/SOURCES.txt'
+writing manifest file '../../build/dynamic_leader_follower/dynamic_leader_follower.egg-info/SOURCES.txt'
+running build
+running build_py
+copying dynamic_leader_follower/turtle_tf2_listener_random_leader.py -> /home/soroushkabiri92/hw2_ws/build/dynamic_leader_follower/build/lib/dynamic_leader_follower
+running install
+running install_lib
+copying /home/soroushkabiri92/hw2_ws/build/dynamic_leader_follower/build/lib/dynamic_leader_follower/turtle_tf2_listener_random_leader.py -> /home/soroushkabiri92/hw2_ws/install/dynamic_leader_follower/lib/python3.10/site-packages/dynamic_leader_follower
+byte-compiling /home/soroushkabiri92/hw2_ws/install/dynamic_leader_follower/lib/python3.10/site-packages/dynamic_leader_follower/turtle_tf2_listener_random_leader.py to turtle_tf2_listener_random_leader.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/soroushkabiri92/hw2_ws/install/dynamic_leader_follower/lib/python3.10/site-packages/dynamic_leader_follower-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/dynamic_leader_follower/dynamic_leader_follower.egg-info to /home/soroushkabiri92/hw2_ws/install/dynamic_leader_follower/lib/python3.10/site-packages/dynamic_leader_follower-0.0.0-py3.10.egg-info
+running install_scripts
+Installing turtle_tf2_broadcaster script to /home/soroushkabiri92/hw2_ws/install/dynamic_leader_follower/lib/dynamic_leader_follower
+Installing turtle_tf2_listener script to /home/soroushkabiri92/hw2_ws/install/dynamic_leader_follower/lib/dynamic_leader_follower
+Installing turtle_tf2_listener_random_leader script to /home/soroushkabiri92/hw2_ws/install/dynamic_leader_follower/lib/dynamic_leader_follower
+writing list of installed files to '/home/soroushkabiri92/hw2_ws/build/dynamic_leader_follower/install.log'
